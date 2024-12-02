@@ -16,7 +16,7 @@ In this project, I'll be tackling the **Build Your Own JSON Parser** challenge. 
 If you're interested in parsing techniques, compilers, or just looking for a cool challenge, join me on this journey! We're connecting via Slack, working through the challenge, and learning together. Whether you're a beginner or experienced, your contributions are welcome!  
 
 To join the fun, reach out in the Slack channel or drop me a message. Let's build something awesome!  
-
+UPDATE: here's the link: https://devcongress-community.slack.com/archives/C0833P60P7U
 ---
 
 ## Challenge Steps  
