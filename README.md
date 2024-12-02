@@ -69,7 +69,7 @@ To join the fun, reach out in the Slack channel or drop me a message. Let's buil
 ---
 
 ## How to Contribute  
-1. Fork the repository (link shared in Slack).  
+1. Fork the repository.  
 2. Clone it locally and create a feature branch.  
 3. Implement your solution and commit your changes.  
 4. Submit a pull request for review.  
