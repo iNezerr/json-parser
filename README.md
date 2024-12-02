@@ -3,6 +3,7 @@
 ## Overview  
 
 In this project, I'll be tackling the **Build Your Own JSON Parser** challenge. The goal is to create a JSON parser from scratch to learn about lexical and syntactic analysis—concepts fundamental to parsing data formats and even building compilers. JSON (JavaScript Object Notation) is a lightweight, widely-used data-interchange format, making it a perfect candidate for this challenge.
+link:https://codingchallenges.fyi/challenges/challenge-json-parser
 
 ### Why a JSON Parser?  
 - It offers hands-on experience with **lexical analysis** (tokenizing input) and **syntactic analysis** (validating against JSON grammar).  
