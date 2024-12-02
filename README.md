@@ -23,7 +23,7 @@ UPDATE: here's the link: https://devcongress-community.slack.com/archives/C0833P
 
 ### Step 0: Environment Setup  
 1. Choose your favorite IDE/editor and programming language.  
-2. Download test data (link provided in Slack).  
+2. Download test data (Check the challenge link).  
 3. Ensure you have a working test setup for automated testing.  
 
 ### Step 1: Parsing Basic JSON Objects  
